@@ -6,7 +6,7 @@
 - 🌱 牛客网：[whoway](https://www.nowcoder.com/profile/258551806)
 - :fox_face: GitLab：[https://gitlab.com/whoway](https://gitlab.com/whoway)
 - 🤔 Stack Overflow社区：<a href="https://stackoverflow.com/users/14727509/whoway" target="_blank">whoway 's Stack Overflow</a>   
-- 💬 邮箱：[hacvhacv@qq.com](hacvhacv@qq.com)  
+- 💬 邮箱：[whoway2017@qq.com](whoway201@qq.com)  
 - ⭐️ GitHub镜像站：<a href="https://gitee.com/HACV" target="_blank">whoway 's Gitee</a>   
 
 
