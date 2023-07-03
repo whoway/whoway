@@ -31,7 +31,8 @@
 
 ###  ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whoway&theme=github)   
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whoway&theme=github) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=whoway&theme=github) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whoway&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whoway&theme=default)   
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=whoway&theme=github) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=whoway&theme=default&utcOffset=8)
 
 
 
