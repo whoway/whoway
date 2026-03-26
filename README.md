@@ -13,12 +13,11 @@
 
 ### ⚡ Technologies  
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C&logoColor=green)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
 ![Go](https://img.shields.io/badge/-Go-E34F26?style=flat-square&logo=go)
-![PHP](https://img.shields.io/badge/-PHP-E34F26?style=flat-square&logo=php)  
 ![Python](https://img.shields.io/badge/-Python3-00599C?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-Fortran-00599C?style=flat-square&logo=Fortran)
+![Java](https://img.shields.io/badge/-Java-00599C?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
+
 
 
 
